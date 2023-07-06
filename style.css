@@ -79,6 +79,7 @@
     height: 100vh;
     align-items: center;
     background-image: url(two.png), linear-gradient(45deg,#599400,#e4ce03);
+    background-repeat: no-repeat;
 }
 
 .headone{
@@ -144,6 +145,7 @@
 }
 .servicea{
     background-image: url(three.png), linear-gradient(45deg,#599400,#e4ce03);
+    background-repeat: no-repeat;
 }
 
 .banner-d{
@@ -152,6 +154,7 @@
     align-items: center;
     height: 70vh;
     background-image: url(four.png), linear-gradient(45deg,#00a799, #8e8200);
+    background-repeat: no-repeat;
 }
 
 .titlehm{
@@ -212,6 +215,7 @@ a:hover{
     font-size: 20px;
     margin-top: 0;
     padding-top: 0;
+    background-repeat: no-repeat;
 }
 
 
