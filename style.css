@@ -44,7 +44,7 @@
     align-items: center;
     height: 100vh;
     color: white;
-    background-image: url(background.avif), linear-gradient(45deg, #470d0d, #4e1313);
+    background-image: url(one.png), linear-gradient(45deg, #470d0d, #4e1313);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@
     justify-content: space-around;
     height: 100vh;
     align-items: center;
-    background-image: url(background.avif), linear-gradient(45deg,#599400,#e4ce03);
+    background-image: url(two.png), linear-gradient(45deg,#599400,#e4ce03);
 }
 
 .headone{
@@ -143,7 +143,7 @@
     padding: 20px;
 }
 .servicea{
-    background-image: url(background.avif), linear-gradient(45deg,#599400,#e4ce03);
+    background-image: url(three.png), linear-gradient(45deg,#599400,#e4ce03);
 }
 
 .banner-d{
@@ -151,7 +151,7 @@
     justify-content: space-around;
     align-items: center;
     height: 70vh;
-    background-image: url(background.avif), linear-gradient(45deg,#00a799, #8e8200);
+    background-image: url(four.png), linear-gradient(45deg,#00a799, #8e8200);
 }
 
 .titlehm{
@@ -207,7 +207,7 @@ a:hover{
 .fot{
     justify-content: center;
     text-align: center;
-    background-image: url(background.avif), linear-gradient(45deg, #00a799, #00a799);
+    background-image: url(four.png), linear-gradient(45deg, #00a799, #00a799);
     color: white;
     font-size: 20px;
     margin-top: 0;
